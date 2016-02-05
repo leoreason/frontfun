@@ -1,2 +1,2 @@
-# frontfun
-One personal web site
+# FrontFun.com
+This is my personal website.
