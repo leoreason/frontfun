@@ -178,16 +178,16 @@ html {
 }
 
 #navigation {
-	font-family: 'Buxton Sketch';
-	text-align: right;
-	list-style: none;
-	margin: 100px 30px 0 0;
+    font-family: "Buxton Sketch", Algerian;
+    text-align: right;
+    list-style: none;
+    margin: 100px 30px 0 0;
     padding: 0px;
     border: 0px;
 } 
 	
 #navigation li a {
-	font-size: 40px;
+	font-size: 35px;
 	line-height: 46px;
 	text-align: right;
 	text-shadow: 4px 4px #1e1e1e;
@@ -197,7 +197,7 @@ html {
 #navigation li a:hover {
 	color: #4a8f43;
 	text-decoration: none;
-    font-size: 45px;
+    font-size: 40px;
     font-weight: bolder;
 }
 
@@ -382,7 +382,7 @@ html {
     width: 300px;
     height: 24px;
     padding: 2px;
-    padding: 0 \0;
+    padding: 0;
     -webkit-border-radius: 5px;
     border-radius: 5px;
     border: none;
