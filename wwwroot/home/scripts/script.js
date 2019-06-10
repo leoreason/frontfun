@@ -46,6 +46,7 @@ $(document).ready(function () {
 
 
 /********************************BEGIN CLOCK*******************************/
+/*
 function startClockTime() {
     var today = new Date();
     var h = today.getHours();
