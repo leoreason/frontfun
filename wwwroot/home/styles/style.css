@@ -172,6 +172,7 @@ html {
 #left {
     height: 100%;
     width: 25%;
+    min-width: 280px;
     position: fixed;
     /*background: url(../images/leftNav3.png) no-repeat 100% 100% #002b2b;*/
     background: #002b2b;
